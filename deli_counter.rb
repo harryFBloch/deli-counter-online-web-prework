@@ -23,6 +23,6 @@ def now_serving(line)
     puts "Currently serving #{serving}."
     puts
   else
-    puts "There is nobody waiting to be served"
+    puts "There is nobody waiting to be served!"
   end
 end
